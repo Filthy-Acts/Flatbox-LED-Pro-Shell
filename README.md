@@ -9,6 +9,6 @@ It is designed around and compatable with the Flatbox PCB marked as "Flatbox-LED
 
 Install the 7 M2x3 Threaded Inserts into the spots required and you should be good to go.
 
-This work was comissioned by myself and created by Aspect3D (https://www.instagram.com/aspect3daus/)
+This work was comissioned by myself and created by Aspect3D. (https://www.instagram.com/aspect3daus/)
 
 ![image](https://github.com/user-attachments/assets/68e667b2-8414-4c27-9304-54ebd999e0c8)
